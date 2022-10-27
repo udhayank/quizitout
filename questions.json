@@ -1,0 +1,25 @@
+{
+    "questions" : [
+        {
+            "question" : "How are you?",
+            "choices" : [
+                "fine", "not so fine", "bad", "too bad"
+            ],
+            "answer" : 1
+        },
+        {
+            "question" : "How are you?",
+            "choices" : [
+                "fine", "not so fine", "bad", "too bad"
+            ],
+            "answer" : 2
+        },
+        {
+            "question" : "How are you?",
+            "choices" : [
+                "fine", "not so fine", "bad", "too bad"
+            ],
+            "answer" : 1
+        }
+    ]
+}

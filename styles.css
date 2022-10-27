@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.main {
+    padding: 20px 25%;
+}
+
+.card {
+    display: flex;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card .number {
+    width: 30px;
+}
+
+.qanda {
+
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.choices label {
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.choices input {
+    margin-bottom: 10px;
+}
+
+#score {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#score span {
+    font-weight: bold;
+}
+
+.submit {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#submit {
+    background-color: lemonchiffon;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: bold;
+}
